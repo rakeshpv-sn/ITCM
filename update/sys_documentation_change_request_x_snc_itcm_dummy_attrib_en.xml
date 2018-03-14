@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="x_snc_itcm_dummy_attrib" label="Dummy_attrib" language="en" table="change_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_snc_itcm_dummy_attrib</element>
+            <help/>
+            <hint/>
+            <label>Dummy_attrib</label>
+            <language>en</language>
+            <name>change_request</name>
+            <plural>Dummy_attribs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>adminrp</sys_created_by>
+            <sys_created_on>2018-03-14 08:33:27</sys_created_on>
+            <sys_id>4a31f45edb74d3004f5b386e7c9619f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Dummy_attrib</sys_name>
+            <sys_package display_value="ITCM" source="x_snc_itcm">909eec9adb74d3004f5b386e7c9619ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ITCM">909eec9adb74d3004f5b386e7c9619ce</sys_scope>
+            <sys_update_name>sys_documentation_change_request_x_snc_itcm_dummy_attrib_en</sys_update_name>
+            <sys_updated_by>adminrp</sys_updated_by>
+            <sys_updated_on>2018-03-14 08:33:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

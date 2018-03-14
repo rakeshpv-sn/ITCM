@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Reboot Video Conference system">34ff281edb74d3004f5b386e7c96190b</sc_cat_item>
+        <sc_category display_value="Standard Changes">b0fdfb01932002009ca87a75e57ffbe9</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>change</sys_created_by>
+        <sys_created_on>2018-03-14 08:27:55</sys_created_on>
+        <sys_id>f8ff281edb74d3004f5b386e7c961913</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Standard Changes.Reboot Video Conference system</sys_name>
+        <sys_package display_value="ITCM" source="x_snc_itcm">909eec9adb74d3004f5b386e7c9619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITCM">909eec9adb74d3004f5b386e7c9619ce</sys_scope>
+        <sys_update_name>sc_cat_item_category_f8ff281edb74d3004f5b386e7c961913</sys_update_name>
+        <sys_updated_by>change</sys_updated_by>
+        <sys_updated_on>2018-03-14 08:27:55</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
